@@ -1,0 +1,50 @@
+.new {
+    margin-left: 50px;
+    float: right;
+    margin-top: -50px;
+    color: #ddd;
+}
+.new1 {
+    margin-left: 100px;
+    float: right;
+    margin-top: -30px;
+    color: #ddd;
+}
+.upper_section {
+    border-bottom: 2px solid #6564C9;
+}
+.middle_section{
+	margin-top:30px;
+}
+.button {
+    background-color: red;
+    border: none;
+    padding: 7px;
+    margin-left: 40px;
+    color: #ddd;
+}
+.form_part{
+	width:350px;
+	
+}
+.table_part {
+	
+    float: right;
+    margin-right: 120px;
+    margin-top: -150px;
+	border-left:2px solid #6564C9;
+	padding-left: 40px;
+}
+.table_part th{
+	padding-right: 15px;
+}
+.success{
+	font-size:25px;
+	color:#008000;
+	margin-bottom:20px;
+}
+.delete{
+	font-size:25px;
+	color:red;
+	margin-bottom:20px;
+}
